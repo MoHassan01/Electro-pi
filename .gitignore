@@ -1,0 +1,27 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+.env.local
+.env2.local
+
+# Models and Large Files
+*.gguf
+*.bin
+*.pt
+*.safetensors
+*.pth
+
+# IDE and OS Files
+.DS_Store
+.vscode/
+.idea/

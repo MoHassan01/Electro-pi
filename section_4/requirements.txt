@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+llama-cpp-python[server]
+huggingface_hub
+aiohttp
